@@ -1,0 +1,9 @@
+C:\Users\student\Documents\harisov205\PP5\PP5\x64\Debug\PP5.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\harisov205\PP5\PP5\x64\Debug\PP5.MyForm.resources
+C:\Users\student\Documents\harisov205\PP5\PP5\x64\Debug\PP5.vcxproj.GenerateResource.cache
+C:\Users\student\Documents\205\скобич\c++\PP5\PP5\x64\Debug\PP5.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\205\скобич\c++\PP5\PP5\x64\Debug\PP5.MyForm.resources
+C:\Users\student\Documents\205\скобич\c++\PP5\PP5\x64\Debug\PP5.vcxproj.GenerateResource.cache
+C:\Users\student\Documents\205\скобич\c++\таймер\PP5\x64\Debug\PP5.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\205\скобич\c++\таймер\PP5\x64\Debug\PP5.MyForm.resources
+C:\Users\student\Documents\205\скобич\c++\таймер\PP5\x64\Debug\PP5.vcxproj.GenerateResource.cache
